@@ -1,0 +1,20 @@
+.navbar{padding: 10px 2rem;background-color: #ec4343;}
+.gill{font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+.segoe{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+.navbar-light .navbar-nav .active > .nav-link{color: white;}
+.navbar-light .navbar-brand {color:white;font-size: 25px;font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+.navbar-expand-lg .navbar-nav .nav-link {padding-right: 1.5rem;padding-left: 1.5rem;font-size: 20px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif}
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {color: white;border-bottom:3px solid white;}
+.bg1{background-image: url('../images/home.jpg');background-size: cover;background-repeat: no-repeat;background-attachment: scroll;position: relative;margin: 0px;background-position: center; padding: 200px 100px 260px;}
+.bg1::before{background: black fixed repeat none 0 0;content: "";width: 100%; height: 100%; opacity: 0.6;position: absolute;left: 0;top: 0;}
+.re{color: white; font-size: 45px;}
+.ma{color:#ec4343; font-size: 30px; font-weight: 700;}
+.bo{padding: 0; margin: 50px 0px 0px;}
+.img1 img{height: auto; border-radius: 10px;}
+.for{font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;font-size: 16px;}
+.bg2{background-image: url('../images/contact3.jpg');background-size: cover;background-repeat: no-repeat;background-attachment: scroll;position: relative;margin: 0px 0px 50px;background-position: center; padding: 100px 100px 300px;}
+.bg2::before{background: black fixed repeat none 0 0;content: "";width: 100%; height: 100%; opacity: 0.4;position: absolute;left: 0;top: 0;}
+.ico i{background-color: #ec4343; color: white; padding: 20px; border-radius: 100%;}
+.ico{font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; border: 1px solid #ec4343; padding: 30px 10px; margin-bottom: 20px; border-radius: 20px 0px 20px 0px;}
+.ico1 i{background-color: #ec4343; color: white; padding: 20px; border-radius: 100%;}
+.ico1{font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; border: 2px dashed #ec4343; padding: 30px 10px; margin-bottom: 20px;}
